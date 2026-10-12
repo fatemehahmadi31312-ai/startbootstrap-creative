@@ -54,8 +54,8 @@ window.addEventListener('DOMContentLoaded', event => {
     // Activate SimpleLightbox plugin for portfolio items
     new SimpleLightbox({
         elements: '#portfolio a.portfolio-box'
-        
+   
     });
-
+          console.log("Hello from Fatemeh!");
 });
-console.log("Hello from Fatemeh!");
+
